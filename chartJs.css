@@ -1,0 +1,10 @@
+.container{
+    width: 100%;
+    display: flex;
+}
+.caixa{
+    justify-content: end;
+}
+.caixa2{
+    justify-content: end;
+}
